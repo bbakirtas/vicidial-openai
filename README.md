@@ -11,6 +11,13 @@ After the installation is complete, you can create your own api code at beta.ope
 
 Finally, this text was translated into English with openai.
 
+more examples openai
+https://beta.openai.com/examples
+
+vicidial 
+VERSION: 2.14-869a
+BUILD: 221021-1038 
+
 ![alt text](https://github.com/bbakirtas/vicidial-openai/blob/main/server.JPG)
 
 ![alt text](https://github.com/bbakirtas/vicidial-openai/blob/main/vicidialask.JPG)
