@@ -10,3 +10,7 @@ After that, you can add the script page from vicidial admin.
 After the installation is complete, you can create your own api code at beta.openai.com. I leave some links to get an idea of what you can do with openai. It is a very open topic for development, I hope it will be useful to you. 
 
 Finally, this text was translated into English with openai.
+
+![alt text](https://github.com/bbakirtas/vicidial-openai/blob/main/server.JPG)
+
+![alt text](https://github.com/bbakirtas/vicidial-openai/blob/main/vicidialask.JPG)
